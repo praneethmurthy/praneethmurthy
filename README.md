@@ -1,10 +1,10 @@
-### Hi! I am Praneeth, a Ph.D. candidate at Iowa State University
+### Hi! I am Praneeth, Postdoc at University of Southern California. 
 
-- 🔭 I’m currently working on Federated Learning and Multi Armed Bandits.
+- 🔭 I’m currently working on Active and Federated Learning.
 - 🌱 I’m currently learning Machine Learning and Signal Processing. 
 - 👯 I’m looking to collaborate on any interesting problems in the general machine learning area!
 - 💬 Ask me about matrix factorization! 
-- 📫 How to reach me: Best through email: pkurpadn@iastate.edu. 
+- 📫 How to reach me: Best through email: praneeth@usc.edu. 
 - 😄 Pronouns: He/Him
 
 You can find more information on my [homepage](https://praneethmurthy.github.io)
