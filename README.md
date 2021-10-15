@@ -1,4 +1,4 @@
-### Hi! I am Praneeth, Postdoc at University of Southern California. 
+### Hi! I am Praneeth, a postdoctoral scholar at University of Southern California. 
 
 - 🔭 I’m currently working on Active and Federated Learning.
 - 🌱 I’m currently learning Machine Learning and Signal Processing. 
